@@ -101,28 +101,5 @@ In summer 2016, the Pro version of [pH7CMS](https://github.com/pH7Software/pH7-S
 Feel free to add your improvements in it by forking the repo and creating a new PR. I will be pleased to review your contribution!
 
 
-FYI, in 3 years' time, I never found my obfuscated code unobfuscated (and the software was downloaded by over 50,000 users). You can be quite confident then.
+FYI, in 3 years' time, I never found my obfuscated code unobfuscatedYou can be quite confident then.
 
-
-## 🤔 Who Am I?
-
-I'm **[Pierre-Henry Soria][author-url]**, Software Developer, love learning new things every single day and also passionate about e-businesses and e-marketing.
-
-[![@phenrysay][twitter-image]][twitter-url]
-
-
-## 📧 Wanna Contact Me?
-
-You can email me at: **pierrehenrysoria+github [[AT]] gmail [[D0T]] com** 🤗
-
-
-## ⚖️ License
-
-Generously distributed under [MIT License][license-url]. See LICENSE.txt file for further information.
-
-
-<!-- GitHub's Markdown reference links -->
-[author-url]: https://ph7.me
-[license-url]: https://opensource.org/licenses/MIT
-[twitter-image]: https://img.shields.io/twitter/url/https/shields.io.svg?style=social
-[twitter-url]: https://twitter.com/phenrysay
